@@ -1,4 +1,6 @@
-This script extracts the contents of a zip archive in a user-friendly way, 
+# unzipd
+
+This bash script extracts the contents of a zip archive in a user-friendly way, 
 whether the archive has a single root file/directory or multiple files at the 
 root level.
   * If the archive contains just one root file or directory, the script 
